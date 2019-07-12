@@ -7,5 +7,7 @@ Decision trees are resistent to outliers but they are very prone to overfitting 
 Select the feature for splitting with high information gain(without having same number of positives and negatives in 'yes' and 'no' branches).
 
 Performance Evaluation:
-Regression - I have used R-squared
-Classification - I have used Accuracy
+
+Regression - I have used R-squared.
+
+Classification - I have used Accuracy.
