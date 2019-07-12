@@ -19,3 +19,12 @@ It doesn't mean that low R-squared results in bad fit of data - It depends on ty
 
 If there is 100% of variance or R2 then there is 100% possibility of overfitting data which is not good for predicting unseen data.
 
+Accuracy:
+It works well only if there are equal number of samples belonging to each class.
+
+Logarithmic Loss or Log Loss, works by penalising the false classifications. It works well for multi-class classification.
+
+Reference for Metric performance evaluation:
+https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234
+
+
