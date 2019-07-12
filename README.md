@@ -8,6 +8,14 @@ Select the feature for splitting with high information gain(without having same 
 
 Performance Evaluation:
 
-Regression - I have used R-squared.
+I have used R-squared for Regression and Accuracy for Classification
 
-Classification - I have used Accuracy.
+R-squared:
+In general, the higher the R-squared, the better the model fits your data. 
+
+High variance  --> High R-squared
+
+It doesn't mean that low R-squared results in bad fit of data - It depends on type of problem - I feel achieving 40% fit of data to the problems involving human behaviour is considered as a good model.
+
+If there is 100% of variance or R2 then there is 100% possibility of overfitting data which is not good for predicting unseen data.
+
